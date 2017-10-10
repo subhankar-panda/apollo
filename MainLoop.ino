@@ -104,7 +104,6 @@ void loop() {
         }
 
         if (readString == "B") {
-          readString = "";
           motorA -> run(FORWARD);
           motorA -> setSpeed(150);
           motorB -> run(FORWARD);
