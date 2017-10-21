@@ -1,7 +1,9 @@
 # Apollo (CalHacks 2017)
 
 ## Inspiration
-Designing for accessibility has been a huge trend in Interaction Design in the last few years, but as we move away from contemporary media -smartphones and tablets- to more advanced computational systems like robotics, the body of work dwindles significantly. Personal robots have immense potential to change lives on an individual level, especially for the differently abled who can use them to augment their interaction with the outside world. This potential calls for the development and establishment of universal design systems, interaction protocols and accessibility guidelines for robotic media. 
+Designing for accessibility has been a huge trend in Interaction Design in the last few years, but as we move away from contemporary media -smartphones and tablets- to more advanced computational systems like robotics, the body of work dwindles significantly. Personal robots have immense potential to change lives on an individual level, especially for the differently abled who can use them to augment their interaction with the outside world. This potential calls for the development and establishment of universal design systems, interaction protocols and accessibility guidelines for robotic media.
+
+The project got picked up by the Daily Cal. Here's their video of it: https://goo.gl/RfNRgw
 
 ## What it does
 We prototyped two different interaction paradigms on a three wheel drive vectoring robot, using natural motion and natural language. The motion and language protocols use gesture and speech driven interfaces to control motor functionality of the robot. The code provides a boilerplate more accessible robotic control interfaces.
