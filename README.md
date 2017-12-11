@@ -3,6 +3,7 @@
 ## Inspiration
 Designing for accessibility has been a huge trend in Interaction Design in the last few years, but as we move away from contemporary media -smartphones and tablets- to more advanced computational systems like robotics, the body of work dwindles significantly. Personal robots have immense potential to change lives on an individual level, especially for the differently abled who can use them to augment their interaction with the outside world. This potential calls for the development and establishment of universal design systems, interaction protocols and accessibility guidelines for robotic media.
 
+A demo video can be found on the devpost page: https://devpost.com/software/apollo-cfnxq0
 The project got picked up by the Daily Cal. Here's their video of it: https://goo.gl/RfNRgw
 
 ## What it does
